@@ -1,2 +1,3 @@
 env:
   db: pg_msb_preprod:5432
+  db_password: 123
