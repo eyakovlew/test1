@@ -1,2 +1,2 @@
 env:
-  db: pg_preprod:5432
+  db: pg_msb_preprod:5432
